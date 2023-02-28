@@ -1,8 +1,8 @@
 package ObjectsClasses;
 
 public class Author {
-    final String name;
-    final String surname;
+    private final String name;
+    private final String surname;
 
     public Author(String name, String surname) {
         this.name = name;
